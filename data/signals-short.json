@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T15:17:15",
+  "generated_at": "2026-04-09T15:36:45",
   "horizon": "short",
   "horizon_label": "Court terme",
   "stocks": [
@@ -134,7 +134,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:16:57+00:00",
+          "as_of": "2026-04-09T14:36:24+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -187,7 +187,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:16:57+00:00",
+          "as_of": "2026-04-09T14:36:24+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -276,7 +276,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:16:58+00:00",
+          "as_of": "2026-04-09T14:36:25+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -405,7 +405,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:16:58+00:00",
+          "as_of": "2026-04-09T14:36:26+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -527,7 +527,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:16:59+00:00",
+          "as_of": "2026-04-09T14:36:26+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -562,7 +562,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:16:59+00:00",
+          "as_of": "2026-04-09T14:36:26+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -615,7 +615,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:00+00:00",
+          "as_of": "2026-04-09T14:36:27+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -728,7 +728,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:00+00:00",
+          "as_of": "2026-04-09T14:36:27+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -866,7 +866,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:00+00:00",
+          "as_of": "2026-04-09T14:36:27+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -919,7 +919,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:00+00:00",
+          "as_of": "2026-04-09T14:36:27+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -990,7 +990,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:01+00:00",
+          "as_of": "2026-04-09T14:36:28+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1087,7 +1087,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:01+00:00",
+          "as_of": "2026-04-09T14:36:28+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1225,7 +1225,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:01+00:00",
+          "as_of": "2026-04-09T14:36:29+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1296,7 +1296,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:01+00:00",
+          "as_of": "2026-04-09T14:36:29+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1367,7 +1367,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:02+00:00",
+          "as_of": "2026-04-09T14:36:30+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1448,7 +1448,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:02+00:00",
+          "as_of": "2026-04-09T14:36:30+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1522,7 +1522,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:02+00:00",
+          "as_of": "2026-04-09T14:36:30+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1575,7 +1575,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:02+00:00",
+          "as_of": "2026-04-09T14:36:31+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1628,7 +1628,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:03+00:00",
+          "as_of": "2026-04-09T14:36:31+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1709,7 +1709,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:03+00:00",
+          "as_of": "2026-04-09T14:36:32+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1751,7 +1751,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:04+00:00",
+          "as_of": "2026-04-09T14:36:32+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 84 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (20/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -1767,7 +1767,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:04+00:00",
+          "as_of": "2026-04-09T14:36:32+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 84 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (20/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -1874,7 +1874,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:04+00:00",
+          "as_of": "2026-04-09T14:36:32+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 84 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (20/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -1907,7 +1907,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:04+00:00",
+          "as_of": "2026-04-09T14:36:32+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 84 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (20/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -1932,7 +1932,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:04+00:00",
+          "as_of": "2026-04-09T14:36:32+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1967,7 +1967,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:04+00:00",
+          "as_of": "2026-04-09T14:36:33+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2038,7 +2038,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:04+00:00",
+          "as_of": "2026-04-09T14:36:33+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2135,7 +2135,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:05+00:00",
+          "as_of": "2026-04-09T14:36:33+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2177,7 +2177,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:05+00:00",
+          "as_of": "2026-04-09T14:36:34+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2212,7 +2212,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:05+00:00",
+          "as_of": "2026-04-09T14:36:34+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2283,7 +2283,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:05+00:00",
+          "as_of": "2026-04-09T14:36:34+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2364,7 +2364,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:05+00:00",
+          "as_of": "2026-04-09T14:36:34+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2389,7 +2389,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:05+00:00",
+          "as_of": "2026-04-09T14:36:34+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2424,7 +2424,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:06+00:00",
+          "as_of": "2026-04-09T14:36:34+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2513,7 +2513,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:06+00:00",
+          "as_of": "2026-04-09T14:36:35+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2610,7 +2610,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:06+00:00",
+          "as_of": "2026-04-09T14:36:35+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2635,7 +2635,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:07+00:00",
+          "as_of": "2026-04-09T14:36:36+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 78 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (14/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -2651,7 +2651,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:07+00:00",
+          "as_of": "2026-04-09T14:36:36+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 78 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (14/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -2704,7 +2704,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:07+00:00",
+          "as_of": "2026-04-09T14:36:36+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 78 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (14/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -2737,7 +2737,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:07+00:00",
+          "as_of": "2026-04-09T14:36:36+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 78 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (14/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -2859,7 +2859,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:07+00:00",
+          "as_of": "2026-04-09T14:36:36+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2912,7 +2912,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:07+00:00",
+          "as_of": "2026-04-09T14:36:36+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2983,7 +2983,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:08+00:00",
+          "as_of": "2026-04-09T14:36:37+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3032,7 +3032,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:08+00:00",
+          "as_of": "2026-04-09T14:36:37+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3170,7 +3170,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:08+00:00",
+          "as_of": "2026-04-09T14:36:37+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3241,7 +3241,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:08+00:00",
+          "as_of": "2026-04-09T14:36:37+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3294,7 +3294,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:09+00:00",
+          "as_of": "2026-04-09T14:36:38+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3375,7 +3375,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:09+00:00",
+          "as_of": "2026-04-09T14:36:38+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3400,7 +3400,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:10+00:00",
+          "as_of": "2026-04-09T14:36:39+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3453,7 +3453,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:10+00:00",
+          "as_of": "2026-04-09T14:36:39+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3524,7 +3524,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:10+00:00",
+          "as_of": "2026-04-09T14:36:40+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3589,7 +3589,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:10+00:00",
+          "as_of": "2026-04-09T14:36:40+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3695,7 +3695,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:11+00:00",
+          "as_of": "2026-04-09T14:36:40+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3748,7 +3748,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:11+00:00",
+          "as_of": "2026-04-09T14:36:41+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3837,7 +3837,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:11+00:00",
+          "as_of": "2026-04-09T14:36:42+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3934,7 +3934,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:12+00:00",
+          "as_of": "2026-04-09T14:36:42+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3959,7 +3959,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:12+00:00",
+          "as_of": "2026-04-09T14:36:42+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3994,7 +3994,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:12+00:00",
+          "as_of": "2026-04-09T14:36:42+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4047,7 +4047,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:13+00:00",
+          "as_of": "2026-04-09T14:36:43+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4096,7 +4096,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:13+00:00",
+          "as_of": "2026-04-09T14:36:43+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4170,7 +4170,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:13+00:00",
+          "as_of": "2026-04-09T14:36:44+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4223,7 +4223,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:13+00:00",
+          "as_of": "2026-04-09T14:36:44+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4330,7 +4330,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:14+00:00",
+          "as_of": "2026-04-09T14:36:45+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4395,7 +4395,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:14+00:00",
+          "as_of": "2026-04-09T14:36:45+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4420,7 +4420,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:14+00:00",
+          "as_of": "2026-04-09T14:36:45+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 182 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (118/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -4436,7 +4436,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:14+00:00",
+          "as_of": "2026-04-09T14:36:45+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 182 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (118/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -4452,7 +4452,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:15+00:00",
+          "as_of": "2026-04-09T14:36:45+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 182 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (118/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -4485,7 +4485,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-09T14:17:15+00:00",
+          "as_of": "2026-04-09T14:36:45+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 182 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (118/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
