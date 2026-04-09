@@ -1,0 +1,1088 @@
+{
+  "generated_at": "2026-04-09T08:58:55",
+  "horizon": "short",
+  "horizon_label": "Court terme",
+  "stocks": [
+    {
+      "symbol": "ADH",
+      "display_name": "DOUJA PROM ADDOHA",
+      "sector": "Immobilier",
+      "per_family": {
+        "sma": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": -44.88,
+          "label": "Suracheté"
+        },
+        "obv": {
+          "score_pct": 100.0,
+          "label": "Forte accumulation"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 100.0,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": -44.88,
+          "label": "Suracheté",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 100.0,
+          "label": "Forte accumulation",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 63.78,
+      "aggregate_signal_label": "Achat fort"
+    },
+    {
+      "symbol": "ADI",
+      "display_name": "ALLIANCES",
+      "sector": "Immobilier",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.19,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 2.41,
+          "label": "Neutre"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 50.09,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 2.41,
+          "label": "Neutre",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 25.65,
+      "aggregate_signal_label": "Achat"
+    },
+    {
+      "symbol": "AKT",
+      "display_name": "AKDITAL",
+      "sector": "Santé",
+      "per_family": {
+        "sma": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 16.1,
+          "label": "Accumulation"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 100.0,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 16.1,
+          "label": "Accumulation",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 54.02,
+      "aggregate_signal_label": "Achat fort"
+    },
+    {
+      "symbol": "ATW",
+      "display_name": "ATTIJARIWAFA BANK",
+      "sector": "Banques",
+      "per_family": {
+        "sma": {
+          "score_pct": 9.82,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -100.0,
+          "label": "Forte distribution"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 54.91,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": -100.0,
+          "label": "Forte distribution",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 2.46,
+      "aggregate_signal_label": "Neutre"
+    },
+    {
+      "symbol": "BCP",
+      "display_name": "BCP",
+      "sector": "Banques",
+      "per_family": {
+        "sma": {
+          "score_pct": 31.15,
+          "label": "Haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 0.07,
+          "label": "Neutre"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 65.58,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 0.07,
+          "label": "Neutre",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 32.8,
+      "aggregate_signal_label": "Achat"
+    },
+    {
+      "symbol": "CAP",
+      "display_name": "CASH PLUS S.A",
+      "sector": "Sociétés de financement",
+      "per_family": {
+        "sma": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 50.0,
+          "label": "Haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 0.0,
+          "label": "Neutre",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 25.0,
+      "aggregate_signal_label": "Achat"
+    },
+    {
+      "symbol": "CDM",
+      "display_name": "CDM",
+      "sector": "Banques",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 100.0,
+          "label": "Forte accumulation"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 50.0,
+          "label": "Haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 100.0,
+          "label": "Forte accumulation",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 50.0,
+      "aggregate_signal_label": "Achat"
+    },
+    {
+      "symbol": "CFG",
+      "display_name": "CFG BANK",
+      "sector": "Banques",
+      "per_family": {
+        "sma": {
+          "score_pct": -100.0,
+          "label": "Très baissier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -100.0,
+          "label": "Forte distribution"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 0.0,
+          "label": "Neutre",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": -100.0,
+          "label": "Forte distribution",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": -25.0,
+      "aggregate_signal_label": "Vente"
+    },
+    {
+      "symbol": "CSR",
+      "display_name": "COSUMAR",
+      "sector": "Agroalimentaire",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 100.0,
+          "label": "Forte accumulation"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 50.0,
+          "label": "Haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 100.0,
+          "label": "Forte accumulation",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 50.0,
+      "aggregate_signal_label": "Achat"
+    },
+    {
+      "symbol": "GTM",
+      "display_name": "SGTM",
+      "sector": "BTP",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -100.0,
+          "label": "Forte distribution"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 0.0,
+          "label": "Neutre",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": -100.0,
+          "label": "Forte distribution",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": -25.0,
+      "aggregate_signal_label": "Vente"
+    },
+    {
+      "symbol": "IAM",
+      "display_name": "ITISSALAT AL-MAGHRIB",
+      "sector": "Télécommunications",
+      "per_family": {
+        "sma": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 3.99,
+          "label": "Neutre"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 100.0,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 3.99,
+          "label": "Neutre",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 51.0,
+      "aggregate_signal_label": "Achat fort"
+    },
+    {
+      "symbol": "JET",
+      "display_name": "JET CONTRACTORS",
+      "sector": "BTP",
+      "per_family": {
+        "sma": {
+          "score_pct": 18.63,
+          "label": "Haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": -50.54,
+          "label": "Très suracheté"
+        },
+        "obv": {
+          "score_pct": 0.78,
+          "label": "Neutre"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 59.31,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": -50.54,
+          "label": "Très suracheté",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 0.78,
+          "label": "Neutre",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 17.22,
+      "aggregate_signal_label": "Achat"
+    },
+    {
+      "symbol": "LHM",
+      "display_name": "LAFARGEHOLCIM MAROC",
+      "sector": "BTP",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 1.61,
+          "label": "Neutre"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 50.0,
+          "label": "Haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 1.61,
+          "label": "Neutre",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 25.4,
+      "aggregate_signal_label": "Achat"
+    },
+    {
+      "symbol": "MSA",
+      "display_name": "SODEP-Marsa Maroc",
+      "sector": "Transport",
+      "per_family": {
+        "sma": {
+          "score_pct": 54.59,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 61.26,
+          "label": "Forte accumulation"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 77.3,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": 61.26,
+          "label": "Forte accumulation",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 53.96,
+      "aggregate_signal_label": "Achat fort"
+    },
+    {
+      "symbol": "SNA",
+      "display_name": "Stokvis Nord Afrique (Ste) SA",
+      "sector": "Distribution",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -100.0,
+          "label": "Forte distribution"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 50.0,
+          "label": "Haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": -100.0,
+          "label": "Forte distribution",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 0.0,
+      "aggregate_signal_label": "Neutre"
+    },
+    {
+      "symbol": "TGC",
+      "display_name": "TGCC S.A",
+      "sector": "BTP",
+      "per_family": {
+        "sma": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -100.0,
+          "label": "Forte distribution"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 100.0,
+          "label": "Très haussier",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": -100.0,
+          "label": "Forte distribution",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": 25.0,
+      "aggregate_signal_label": "Achat"
+    },
+    {
+      "symbol": "VCN",
+      "display_name": "Vicenne",
+      "sector": "Santé",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "obv": {
+          "score_pct": -100.0,
+          "label": "Forte distribution"
+        }
+      },
+      "categories": {
+        "tendance": {
+          "score_pct": 0.0,
+          "label": "Neutre",
+          "families": [
+            "sma",
+            "macd"
+          ]
+        },
+        "oscillation": {
+          "score_pct": 0.0,
+          "label": "Normal",
+          "families": [
+            "rsi"
+          ]
+        },
+        "volume": {
+          "score_pct": -100.0,
+          "label": "Forte distribution",
+          "families": [
+            "obv"
+          ]
+        }
+      },
+      "aggregate_score_pct": -25.0,
+      "aggregate_signal_label": "Vente"
+    }
+  ],
+  "sectors": [
+    {
+      "sector": "Agroalimentaire",
+      "stock_count": 1,
+      "aggregate_score_pct": 50.0,
+      "aggregate_signal_label": "Achat",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 100.0,
+          "label": "Forte accumulation"
+        }
+      }
+    },
+    {
+      "sector": "BTP",
+      "stock_count": 4,
+      "aggregate_score_pct": 10.65,
+      "aggregate_signal_label": "Neutre",
+      "per_family": {
+        "sma": {
+          "score_pct": 29.66,
+          "label": "Haussier"
+        },
+        "macd": {
+          "score_pct": 75.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": -12.63,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -49.4,
+          "label": "Distribution"
+        }
+      }
+    },
+    {
+      "sector": "Banques",
+      "stock_count": 4,
+      "aggregate_score_pct": 15.06,
+      "aggregate_signal_label": "Achat",
+      "per_family": {
+        "sma": {
+          "score_pct": -14.76,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -24.98,
+          "label": "Distribution"
+        }
+      }
+    },
+    {
+      "sector": "Distribution",
+      "stock_count": 1,
+      "aggregate_score_pct": 0.0,
+      "aggregate_signal_label": "Neutre",
+      "per_family": {
+        "sma": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -100.0,
+          "label": "Forte distribution"
+        }
+      }
+    },
+    {
+      "sector": "Immobilier",
+      "stock_count": 2,
+      "aggregate_score_pct": 44.72,
+      "aggregate_signal_label": "Achat",
+      "per_family": {
+        "sma": {
+          "score_pct": 50.09,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": -22.44,
+          "label": "Suracheté"
+        },
+        "obv": {
+          "score_pct": 51.2,
+          "label": "Forte accumulation"
+        }
+      }
+    },
+    {
+      "sector": "Santé",
+      "stock_count": 2,
+      "aggregate_score_pct": 14.51,
+      "aggregate_signal_label": "Neutre",
+      "per_family": {
+        "sma": {
+          "score_pct": 50.0,
+          "label": "Haussier"
+        },
+        "macd": {
+          "score_pct": 50.0,
+          "label": "Haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": -41.95,
+          "label": "Distribution"
+        }
+      }
+    },
+    {
+      "sector": "Sociétés de financement",
+      "stock_count": 1,
+      "aggregate_score_pct": 25.0,
+      "aggregate_signal_label": "Achat",
+      "per_family": {
+        "sma": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 0.0,
+          "label": "Neutre"
+        }
+      }
+    },
+    {
+      "sector": "Transport",
+      "stock_count": 1,
+      "aggregate_score_pct": 53.96,
+      "aggregate_signal_label": "Achat fort",
+      "per_family": {
+        "sma": {
+          "score_pct": 54.59,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 61.26,
+          "label": "Forte accumulation"
+        }
+      }
+    },
+    {
+      "sector": "Télécommunications",
+      "stock_count": 1,
+      "aggregate_score_pct": 51.0,
+      "aggregate_signal_label": "Achat fort",
+      "per_family": {
+        "sma": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "macd": {
+          "score_pct": 100.0,
+          "label": "Très haussier"
+        },
+        "rsi": {
+          "score_pct": 0.0,
+          "label": "Normal"
+        },
+        "obv": {
+          "score_pct": 3.99,
+          "label": "Neutre"
+        }
+      }
+    }
+  ],
+  "index": {
+    "name": "MASI",
+    "stock_count": 17,
+    "aggregate_score_pct": 23.61,
+    "aggregate_signal_label": "Achat",
+    "per_family": {
+      "sma": {
+        "score_pct": 30.26,
+        "label": "Haussier"
+      },
+      "macd": {
+        "score_pct": 82.35,
+        "label": "Très haussier"
+      },
+      "rsi": {
+        "score_pct": -5.61,
+        "label": "Normal"
+      },
+      "obv": {
+        "score_pct": -12.58,
+        "label": "Neutre"
+      }
+    },
+    "breadth": {
+      "achat": 12,
+      "neutre": 2,
+      "vente": 3,
+      "indisponible": 0
+    }
+  }
+}
