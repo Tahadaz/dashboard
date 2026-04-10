@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T15:06:38",
+  "generated_at": "2026-04-10T15:24:47",
   "horizon": "short",
   "horizon_label": "Court terme",
   "stocks": [
@@ -18,18 +18,18 @@
           "viable_count": 30,
           "competitive_count": 18,
           "representative_count": 5,
-          "score_explanation": "5 representative(s): Close 34.40 > SMA-5 33.22 -> HAUSSIER; Close 34.40 > SMA-11 31.84 -> HAUSSIER; Close 34.40 > SMA-7 32.87 -> HAUSSIER; Close 34.40 > SMA-15 31.20 -> HAUSSIER; Close 34.40 > SMA-31 29.99 -> HAUSSIER",
+          "score_explanation": "5 representative(s): Close 34.25 > SMA-5 32.68 -> HAUSSIER; Close 34.25 > SMA-11 31.36 -> HAUSSIER; Close 34.25 > SMA-15 30.90 -> HAUSSIER; Close 34.25 > SMA-7 32.46 -> HAUSSIER; Close 34.25 > SMA-28 29.88 -> HAUSSIER",
           "representatives": [
             {
               "variant_id": "sv_ae0a1a7049e04ec8",
               "signal": 1.0,
               "signal_label": "HAUSSIER",
-              "reliability_weight": 0.565718,
-              "normalized_weight": 0.2233,
-              "contribution": 0.2233,
-              "current_close": 34.4,
-              "indicator_value": 33.224,
-              "explanation": "Close 34.40 > SMA-5 33.22 -> HAUSSIER",
+              "reliability_weight": 0.56569,
+              "normalized_weight": 0.2259,
+              "contribution": 0.2259,
+              "current_close": 34.25,
+              "indicator_value": 32.684,
+              "explanation": "Close 34.25 > SMA-5 32.68 -> HAUSSIER",
               "params": {
                 "window": 5
               },
@@ -40,30 +40,14 @@
               "variant_id": "sv_206134529a1dc8bc",
               "signal": 1.0,
               "signal_label": "HAUSSIER",
-              "reliability_weight": 0.519459,
-              "normalized_weight": 0.205,
-              "contribution": 0.205,
-              "current_close": 34.4,
-              "indicator_value": 31.842727,
-              "explanation": "Close 34.40 > SMA-11 31.84 -> HAUSSIER",
+              "reliability_weight": 0.519293,
+              "normalized_weight": 0.2073,
+              "contribution": 0.2073,
+              "current_close": 34.25,
+              "indicator_value": 31.360909,
+              "explanation": "Close 34.25 > SMA-11 31.36 -> HAUSSIER",
               "params": {
                 "window": 11
-              },
-              "archetype": "price_vs_sma",
-              "selection_status": "selected"
-            },
-            {
-              "variant_id": "sv_069a3e9a32305b5a",
-              "signal": 1.0,
-              "signal_label": "HAUSSIER",
-              "reliability_weight": 0.513449,
-              "normalized_weight": 0.2027,
-              "contribution": 0.2027,
-              "current_close": 34.4,
-              "indicator_value": 32.867143,
-              "explanation": "Close 34.40 > SMA-7 32.87 -> HAUSSIER",
-              "params": {
-                "window": 7
               },
               "archetype": "price_vs_sma",
               "selection_status": "selected"
@@ -72,12 +56,12 @@
               "variant_id": "sv_dd496a6085988e0f",
               "signal": 1.0,
               "signal_label": "HAUSSIER",
-              "reliability_weight": 0.488562,
-              "normalized_weight": 0.1928,
-              "contribution": 0.1928,
-              "current_close": 34.4,
-              "indicator_value": 31.195333,
-              "explanation": "Close 34.40 > SMA-15 31.20 -> HAUSSIER",
+              "reliability_weight": 0.498118,
+              "normalized_weight": 0.1989,
+              "contribution": 0.1989,
+              "current_close": 34.25,
+              "indicator_value": 30.901333,
+              "explanation": "Close 34.25 > SMA-15 30.90 -> HAUSSIER",
               "params": {
                 "window": 15
               },
@@ -85,24 +69,40 @@
               "selection_status": "selected"
             },
             {
-              "variant_id": "sv_0d86fe76ddd42ddb",
+              "variant_id": "sv_069a3e9a32305b5a",
               "signal": 1.0,
               "signal_label": "HAUSSIER",
-              "reliability_weight": 0.446246,
-              "normalized_weight": 0.1761,
-              "contribution": 0.1761,
-              "current_close": 34.4,
-              "indicator_value": 29.987419,
-              "explanation": "Close 34.40 > SMA-31 29.99 -> HAUSSIER",
+              "reliability_weight": 0.495376,
+              "normalized_weight": 0.1978,
+              "contribution": 0.1978,
+              "current_close": 34.25,
+              "indicator_value": 32.461429,
+              "explanation": "Close 34.25 > SMA-7 32.46 -> HAUSSIER",
               "params": {
-                "window": 31
+                "window": 7
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_bb357ba9a1e33b0b",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.42615,
+              "normalized_weight": 0.1701,
+              "contribution": 0.1701,
+              "current_close": 34.25,
+              "indicator_value": 29.882857,
+              "explanation": "Close 34.25 > SMA-28 29.88 -> HAUSSIER",
+              "params": {
+                "window": 28
               },
               "archetype": "price_vs_sma",
               "selection_status": "selected"
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:00:39+00:00",
+          "as_of": "2026-04-10T14:19:09+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -115,18 +115,18 @@
           "viable_count": 30,
           "competitive_count": 18,
           "representative_count": 3,
-          "score_explanation": "3 representative(s): MACD(10,20,5)=1.07 -> MOMENTUM HAUSSIER; MACD(10,20,9)=1.07 -> MOMENTUM HAUSSIER; MACD(8,12,5)=0.66 -> MOMENTUM HAUSSIER",
+          "score_explanation": "3 representative(s): MACD(10,20,5)=0.95 -> MOMENTUM HAUSSIER; MACD(10,20,9)=0.95 -> MOMENTUM HAUSSIER; MACD(7,17,5)=1.30 -> MOMENTUM HAUSSIER",
           "representatives": [
             {
               "variant_id": "sv_eab20ede3495e753",
               "signal": 1.0,
               "signal_label": "MOMENTUM HAUSSIER",
-              "reliability_weight": 0.62501,
-              "normalized_weight": 0.3452,
-              "contribution": 0.3452,
-              "current_close": 34.4,
-              "indicator_value": 1.068582,
-              "explanation": "MACD(10,20,5)=1.07 -> MOMENTUM HAUSSIER",
+              "reliability_weight": 0.614782,
+              "normalized_weight": 0.3477,
+              "contribution": 0.3477,
+              "current_close": 34.25,
+              "indicator_value": 0.95097,
+              "explanation": "MACD(10,20,5)=0.95 -> MOMENTUM HAUSSIER",
               "params": {
                 "fast": 10,
                 "slow": 20,
@@ -139,12 +139,12 @@
               "variant_id": "sv_db6b9b8be865615c",
               "signal": 1.0,
               "signal_label": "MOMENTUM HAUSSIER",
-              "reliability_weight": 0.598044,
-              "normalized_weight": 0.3303,
-              "contribution": 0.3303,
-              "current_close": 34.4,
-              "indicator_value": 1.068582,
-              "explanation": "MACD(10,20,9)=1.07 -> MOMENTUM HAUSSIER",
+              "reliability_weight": 0.586423,
+              "normalized_weight": 0.3316,
+              "contribution": 0.3316,
+              "current_close": 34.25,
+              "indicator_value": 0.95097,
+              "explanation": "MACD(10,20,9)=0.95 -> MOMENTUM HAUSSIER",
               "params": {
                 "fast": 10,
                 "slow": 20,
@@ -154,18 +154,18 @@
               "selection_status": "selected"
             },
             {
-              "variant_id": "sv_f6fb7a4b30c7a473",
+              "variant_id": "sv_d13f70a8c9de9a90",
               "signal": 1.0,
               "signal_label": "MOMENTUM HAUSSIER",
-              "reliability_weight": 0.587739,
-              "normalized_weight": 0.3246,
-              "contribution": 0.3246,
-              "current_close": 34.4,
-              "indicator_value": 0.659201,
-              "explanation": "MACD(8,12,5)=0.66 -> MOMENTUM HAUSSIER",
+              "reliability_weight": 0.567071,
+              "normalized_weight": 0.3207,
+              "contribution": 0.3207,
+              "current_close": 34.25,
+              "indicator_value": 1.296597,
+              "explanation": "MACD(7,17,5)=1.30 -> MOMENTUM HAUSSIER",
               "params": {
-                "fast": 8,
-                "slow": 12,
+                "fast": 7,
+                "slow": 17,
                 "signal": 5
               },
               "archetype": "macd_cross",
@@ -173,7 +173,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:00:39+00:00",
+          "as_of": "2026-04-10T14:19:09+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -186,18 +186,18 @@
           "viable_count": 12,
           "competitive_count": 7,
           "representative_count": 4,
-          "score_explanation": "4 representative(s): RSI(5)=80.25 ~ neutral -> NORMAL; RSI(6)=78.21 ~ neutral -> NORMAL; RSI(9)=72.98 ~ neutral -> NORMAL; RSI(5)=80.25 ~ neutral -> NORMAL",
+          "score_explanation": "4 representative(s): RSI(5)=79.42 ~ neutral -> NORMAL; RSI(6)=77.46 ~ neutral -> NORMAL; RSI(5)=79.42 ~ neutral -> NORMAL; RSI(9)=72.38 ~ neutral -> NORMAL",
           "representatives": [
             {
               "variant_id": "sv_41c77c221f2e8ce4",
               "signal": 0.0,
               "signal_label": "NORMAL",
-              "reliability_weight": 0.637257,
-              "normalized_weight": 0.3052,
+              "reliability_weight": 0.606317,
+              "normalized_weight": 0.297,
               "contribution": 0.0,
-              "current_close": 34.4,
-              "indicator_value": 80.250837,
-              "explanation": "RSI(5)=80.25 ~ neutral -> NORMAL",
+              "current_close": 34.25,
+              "indicator_value": 79.418723,
+              "explanation": "RSI(5)=79.42 ~ neutral -> NORMAL",
               "params": {
                 "period": 5,
                 "oversold": 30,
@@ -210,12 +210,12 @@
               "variant_id": "sv_48c67b4593ede646",
               "signal": 0.0,
               "signal_label": "NORMAL",
-              "reliability_weight": 0.499364,
-              "normalized_weight": 0.2391,
+              "reliability_weight": 0.490425,
+              "normalized_weight": 0.2402,
               "contribution": 0.0,
-              "current_close": 34.4,
-              "indicator_value": 78.205564,
-              "explanation": "RSI(6)=78.21 ~ neutral -> NORMAL",
+              "current_close": 34.25,
+              "indicator_value": 77.457146,
+              "explanation": "RSI(6)=77.46 ~ neutral -> NORMAL",
               "params": {
                 "period": 6,
                 "oversold": 20,
@@ -225,33 +225,15 @@
               "selection_status": "selected"
             },
             {
-              "variant_id": "sv_44c224e2c541a151",
-              "signal": 0.0,
-              "signal_label": "NORMAL",
-              "reliability_weight": 0.476067,
-              "normalized_weight": 0.228,
-              "contribution": 0.0,
-              "current_close": 34.4,
-              "indicator_value": 72.977772,
-              "explanation": "RSI(9)=72.98 ~ neutral -> NORMAL",
-              "params": {
-                "period": 9,
-                "oversold": 30,
-                "overbought": 70
-              },
-              "archetype": "rsi_level",
-              "selection_status": "selected"
-            },
-            {
               "variant_id": "sv_39e59cfba8d0fdbc",
               "signal": 0.0,
               "signal_label": "NORMAL",
-              "reliability_weight": 0.47551,
-              "normalized_weight": 0.2277,
+              "reliability_weight": 0.485411,
+              "normalized_weight": 0.2378,
               "contribution": 0.0,
-              "current_close": 34.4,
-              "indicator_value": 80.250837,
-              "explanation": "RSI(5)=80.25 ~ neutral -> NORMAL",
+              "current_close": 34.25,
+              "indicator_value": 79.418723,
+              "explanation": "RSI(5)=79.42 ~ neutral -> NORMAL",
               "params": {
                 "period": 5,
                 "oversold": 25,
@@ -259,10 +241,28 @@
               },
               "archetype": "rsi_level",
               "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_44c224e2c541a151",
+              "signal": 0.0,
+              "signal_label": "NORMAL",
+              "reliability_weight": 0.459352,
+              "normalized_weight": 0.225,
+              "contribution": 0.0,
+              "current_close": 34.25,
+              "indicator_value": 72.376239,
+              "explanation": "RSI(9)=72.38 ~ neutral -> NORMAL",
+              "params": {
+                "period": 9,
+                "oversold": 30,
+                "overbought": 70
+              },
+              "archetype": "rsi_level",
+              "selection_status": "selected"
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:00:40+00:00",
+          "as_of": "2026-04-10T14:19:09+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -275,17 +275,17 @@
           "viable_count": 30,
           "competitive_count": 18,
           "representative_count": 4,
-          "score_explanation": "4 representative(s): OBV vs EMA(9) -> ACCUMULATION; OBV vs EMA(6) -> ACCUMULATION; OBV vs EMA(32) -> ACCUMULATION; OBV vs EMA(18) -> ACCUMULATION",
+          "score_explanation": "4 representative(s): OBV vs EMA(9) -> ACCUMULATION; OBV vs EMA(6) -> ACCUMULATION; OBV vs EMA(18) -> ACCUMULATION; OBV vs EMA(32) -> ACCUMULATION",
           "representatives": [
             {
               "variant_id": "sv_bc27208afa82df9c",
               "signal": 1.0,
               "signal_label": "ACCUMULATION",
-              "reliability_weight": 0.59002,
-              "normalized_weight": 0.2866,
-              "contribution": 0.2866,
-              "current_close": 34.4,
-              "indicator_value": 120710902.0,
+              "reliability_weight": 0.591647,
+              "normalized_weight": 0.2958,
+              "contribution": 0.2958,
+              "current_close": 34.25,
+              "indicator_value": 120471456.0,
               "explanation": "OBV vs EMA(9) -> ACCUMULATION",
               "params": {
                 "ema_period": 9
@@ -297,11 +297,11 @@
               "variant_id": "sv_f725c67e7c7a86bd",
               "signal": 1.0,
               "signal_label": "ACCUMULATION",
-              "reliability_weight": 0.5682,
-              "normalized_weight": 0.276,
-              "contribution": 0.276,
-              "current_close": 34.4,
-              "indicator_value": 120710902.0,
+              "reliability_weight": 0.567759,
+              "normalized_weight": 0.2839,
+              "contribution": 0.2839,
+              "current_close": 34.25,
+              "indicator_value": 120471456.0,
               "explanation": "OBV vs EMA(6) -> ACCUMULATION",
               "params": {
                 "ema_period": 6
@@ -310,40 +310,40 @@
               "selection_status": "selected"
             },
             {
-              "variant_id": "sv_85a580ff3236928c",
-              "signal": 1.0,
-              "signal_label": "ACCUMULATION",
-              "reliability_weight": 0.457034,
-              "normalized_weight": 0.222,
-              "contribution": 0.222,
-              "current_close": 34.4,
-              "indicator_value": 120710902.0,
-              "explanation": "OBV vs EMA(32) -> ACCUMULATION",
-              "params": {
-                "ema_period": 32
-              },
-              "archetype": "obv_trend",
-              "selection_status": "selected"
-            },
-            {
               "variant_id": "sv_b838942a976901e9",
               "signal": 1.0,
               "signal_label": "ACCUMULATION",
-              "reliability_weight": 0.443262,
-              "normalized_weight": 0.2153,
-              "contribution": 0.2153,
-              "current_close": 34.4,
-              "indicator_value": 120710902.0,
+              "reliability_weight": 0.437862,
+              "normalized_weight": 0.2189,
+              "contribution": 0.2189,
+              "current_close": 34.25,
+              "indicator_value": 120471456.0,
               "explanation": "OBV vs EMA(18) -> ACCUMULATION",
               "params": {
                 "ema_period": 18
               },
               "archetype": "obv_trend",
               "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_85a580ff3236928c",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.402594,
+              "normalized_weight": 0.2013,
+              "contribution": 0.2013,
+              "current_close": 34.25,
+              "indicator_value": 120471456.0,
+              "explanation": "OBV vs EMA(32) -> ACCUMULATION",
+              "params": {
+                "ema_period": 32
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:00:40+00:00",
+          "as_of": "2026-04-10T14:19:09+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -365,7 +365,7 @@
           "viable_count": 30,
           "competitive_count": 18,
           "representative_count": 5,
-          "score_explanation": "5 representative(s): Close 421.00 < SMA-5 421.01 -> BAISSIER; Close 421.00 < SMA-11 422.18 -> BAISSIER; Close 421.00 < SMA-7 423.86 -> BAISSIER; Close 421.00 < SMA-31 423.50 -> BAISSIER; Close 421.00 > SMA-22 415.95 -> HAUSSIER",
+          "score_explanation": "5 representative(s): Close 420.00 < SMA-5 422.61 -> BAISSIER; Close 420.00 < SMA-11 422.99 -> BAISSIER; Close 420.00 < SMA-7 425.72 -> BAISSIER; Close 420.00 < SMA-31 426.27 -> BAISSIER; Close 420.00 > SMA-22 414.61 -> HAUSSIER",
           "representatives": [
             {
               "variant_id": "sv_ae0a1a7049e04ec8",
@@ -374,9 +374,9 @@
               "reliability_weight": 0.669996,
               "normalized_weight": 0.2058,
               "contribution": -0.2058,
-              "current_close": 421.0,
-              "indicator_value": 421.01,
-              "explanation": "Close 421.00 < SMA-5 421.01 -> BAISSIER",
+              "current_close": 420.0,
+              "indicator_value": 422.61,
+              "explanation": "Close 420.00 < SMA-5 422.61 -> BAISSIER",
               "params": {
                 "window": 5
               },
@@ -390,9 +390,9 @@
               "reliability_weight": 0.658005,
               "normalized_weight": 0.2021,
               "contribution": -0.2021,
-              "current_close": 421.0,
-              "indicator_value": 422.177273,
-              "explanation": "Close 421.00 < SMA-11 422.18 -> BAISSIER",
+              "current_close": 420.0,
+              "indicator_value": 422.986364,
+              "explanation": "Close 420.00 < SMA-11 422.99 -> BAISSIER",
               "params": {
                 "window": 11
               },
@@ -406,9 +406,9 @@
               "reliability_weight": 0.646378,
               "normalized_weight": 0.1985,
               "contribution": -0.1985,
-              "current_close": 421.0,
-              "indicator_value": 423.864286,
-              "explanation": "Close 421.00 < SMA-7 423.86 -> BAISSIER",
+              "current_close": 420.0,
+              "indicator_value": 425.721429,
+              "explanation": "Close 420.00 < SMA-7 425.72 -> BAISSIER",
               "params": {
                 "window": 7
               },
@@ -422,9 +422,9 @@
               "reliability_weight": 0.645734,
               "normalized_weight": 0.1983,
               "contribution": -0.1983,
-              "current_close": 421.0,
-              "indicator_value": 423.504839,
-              "explanation": "Close 421.00 < SMA-31 423.50 -> BAISSIER",
+              "current_close": 420.0,
+              "indicator_value": 426.266129,
+              "explanation": "Close 420.00 < SMA-31 426.27 -> BAISSIER",
               "params": {
                 "window": 31
               },
@@ -438,9 +438,9 @@
               "reliability_weight": 0.636141,
               "normalized_weight": 0.1954,
               "contribution": 0.1954,
-              "current_close": 421.0,
-              "indicator_value": 415.947727,
-              "explanation": "Close 421.00 > SMA-22 415.95 -> HAUSSIER",
+              "current_close": 420.0,
+              "indicator_value": 414.606818,
+              "explanation": "Close 420.00 > SMA-22 414.61 -> HAUSSIER",
               "params": {
                 "window": 22
               },
@@ -449,7 +449,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:01:24+00:00",
+          "as_of": "2026-04-10T14:19:48+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -462,7 +462,7 @@
           "viable_count": 30,
           "competitive_count": 18,
           "representative_count": 3,
-          "score_explanation": "3 representative(s): MACD(8,17,9)=-1.13 -> MOMENTUM HAUSSIER; MACD(5,12,5)=0.24 -> MOMENTUM BAISSIER; MACD(5,20,5)=-2.72 -> MOMENTUM HAUSSIER",
+          "score_explanation": "3 representative(s): MACD(8,17,9)=-1.13 -> MOMENTUM HAUSSIER; MACD(5,12,5)=0.59 -> MOMENTUM BAISSIER; MACD(5,20,5)=-2.64 -> MOMENTUM HAUSSIER",
           "representatives": [
             {
               "variant_id": "sv_cad7db4b8bc74cb3",
@@ -471,8 +471,8 @@
               "reliability_weight": 0.671503,
               "normalized_weight": 0.3412,
               "contribution": 0.3412,
-              "current_close": 421.0,
-              "indicator_value": -1.125929,
+              "current_close": 420.0,
+              "indicator_value": -1.125068,
               "explanation": "MACD(8,17,9)=-1.13 -> MOMENTUM HAUSSIER",
               "params": {
                 "fast": 8,
@@ -489,9 +489,9 @@
               "reliability_weight": 0.65829,
               "normalized_weight": 0.3345,
               "contribution": -0.3345,
-              "current_close": 421.0,
-              "indicator_value": 0.244852,
-              "explanation": "MACD(5,12,5)=0.24 -> MOMENTUM BAISSIER",
+              "current_close": 420.0,
+              "indicator_value": 0.587169,
+              "explanation": "MACD(5,12,5)=0.59 -> MOMENTUM BAISSIER",
               "params": {
                 "fast": 5,
                 "slow": 12,
@@ -507,9 +507,9 @@
               "reliability_weight": 0.638214,
               "normalized_weight": 0.3243,
               "contribution": 0.3243,
-              "current_close": 421.0,
-              "indicator_value": -2.721517,
-              "explanation": "MACD(5,20,5)=-2.72 -> MOMENTUM HAUSSIER",
+              "current_close": 420.0,
+              "indicator_value": -2.638543,
+              "explanation": "MACD(5,20,5)=-2.64 -> MOMENTUM HAUSSIER",
               "params": {
                 "fast": 5,
                 "slow": 20,
@@ -520,7 +520,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:01:24+00:00",
+          "as_of": "2026-04-10T14:19:48+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -533,7 +533,7 @@
           "viable_count": 5,
           "competitive_count": 3,
           "representative_count": 2,
-          "score_explanation": "2 representative(s): RSI(5)=48.97 ~ neutral -> NORMAL; RSI(8)=49.13 ~ neutral -> NORMAL",
+          "score_explanation": "2 representative(s): RSI(5)=47.87 ~ neutral -> NORMAL; RSI(8)=48.50 ~ neutral -> NORMAL",
           "representatives": [
             {
               "variant_id": "sv_41c77c221f2e8ce4",
@@ -542,9 +542,9 @@
               "reliability_weight": 0.623161,
               "normalized_weight": 0.5636,
               "contribution": 0.0,
-              "current_close": 421.0,
-              "indicator_value": 48.970343,
-              "explanation": "RSI(5)=48.97 ~ neutral -> NORMAL",
+              "current_close": 420.0,
+              "indicator_value": 47.868299,
+              "explanation": "RSI(5)=47.87 ~ neutral -> NORMAL",
               "params": {
                 "period": 5,
                 "oversold": 30,
@@ -560,9 +560,9 @@
               "reliability_weight": 0.482458,
               "normalized_weight": 0.4364,
               "contribution": 0.0,
-              "current_close": 421.0,
-              "indicator_value": 49.130653,
-              "explanation": "RSI(8)=49.13 ~ neutral -> NORMAL",
+              "current_close": 420.0,
+              "indicator_value": 48.501217,
+              "explanation": "RSI(8)=48.50 ~ neutral -> NORMAL",
               "params": {
                 "period": 8,
                 "oversold": 30,
@@ -573,7 +573,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:01:25+00:00",
+          "as_of": "2026-04-10T14:19:48+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -595,8 +595,8 @@
               "reliability_weight": 0.622076,
               "normalized_weight": 0.3504,
               "contribution": -0.3504,
-              "current_close": 421.0,
-              "indicator_value": 13049592.0,
+              "current_close": 420.0,
+              "indicator_value": 13046911.0,
               "explanation": "OBV vs EMA(34) -> DISTRIBUTION",
               "params": {
                 "ema_period": 34
@@ -611,8 +611,8 @@
               "reliability_weight": 0.579865,
               "normalized_weight": 0.3266,
               "contribution": -0.3266,
-              "current_close": 421.0,
-              "indicator_value": 13049592.0,
+              "current_close": 420.0,
+              "indicator_value": 13046911.0,
               "explanation": "OBV vs EMA(18) -> DISTRIBUTION",
               "params": {
                 "ema_period": 18
@@ -627,8 +627,8 @@
               "reliability_weight": 0.573533,
               "normalized_weight": 0.323,
               "contribution": -0.323,
-              "current_close": 421.0,
-              "indicator_value": 13049592.0,
+              "current_close": 420.0,
+              "indicator_value": 13046911.0,
               "explanation": "OBV vs EMA(25) -> DISTRIBUTION",
               "params": {
                 "ema_period": 25
@@ -638,7 +638,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:01:25+00:00",
+          "as_of": "2026-04-10T14:19:48+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -660,7 +660,7 @@
           "viable_count": 28,
           "competitive_count": 17,
           "representative_count": 6,
-          "score_explanation": "6 representative(s): Close 1180.00 > SMA-7 1143.57 -> HAUSSIER; Close 1180.00 > SMA-10 1139.30 -> HAUSSIER; Close 1180.00 > SMA-14 1134.50 -> HAUSSIER; Close 1180.00 > SMA-22 1114.32 -> HAUSSIER; Close 1180.00 > SMA-28 1096.75 -> HAUSSIER; Close 1180.00 > SMA-5 1150.60 -> HAUSSIER",
+          "score_explanation": "6 representative(s): Close 1175.00 > SMA-7 1139.00 -> HAUSSIER; Close 1175.00 > SMA-10 1135.40 -> HAUSSIER; Close 1175.00 > SMA-14 1128.14 -> HAUSSIER; Close 1175.00 > SMA-22 1106.55 -> HAUSSIER; Close 1175.00 > SMA-28 1095.14 -> HAUSSIER; Close 1175.00 > SMA-5 1136.60 -> HAUSSIER",
           "representatives": [
             {
               "variant_id": "sv_069a3e9a32305b5a",
@@ -669,9 +669,9 @@
               "reliability_weight": 0.664318,
               "normalized_weight": 0.1893,
               "contribution": 0.1893,
-              "current_close": 1180.0,
-              "indicator_value": 1143.571429,
-              "explanation": "Close 1180.00 > SMA-7 1143.57 -> HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 1139.0,
+              "explanation": "Close 1175.00 > SMA-7 1139.00 -> HAUSSIER",
               "params": {
                 "window": 7
               },
@@ -685,9 +685,9 @@
               "reliability_weight": 0.660473,
               "normalized_weight": 0.1882,
               "contribution": 0.1882,
-              "current_close": 1180.0,
-              "indicator_value": 1139.3,
-              "explanation": "Close 1180.00 > SMA-10 1139.30 -> HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 1135.4,
+              "explanation": "Close 1175.00 > SMA-10 1135.40 -> HAUSSIER",
               "params": {
                 "window": 10
               },
@@ -701,9 +701,9 @@
               "reliability_weight": 0.603463,
               "normalized_weight": 0.172,
               "contribution": 0.172,
-              "current_close": 1180.0,
-              "indicator_value": 1134.5,
-              "explanation": "Close 1180.00 > SMA-14 1134.50 -> HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 1128.142857,
+              "explanation": "Close 1175.00 > SMA-14 1128.14 -> HAUSSIER",
               "params": {
                 "window": 14
               },
@@ -717,9 +717,9 @@
               "reliability_weight": 0.555155,
               "normalized_weight": 0.1582,
               "contribution": 0.1582,
-              "current_close": 1180.0,
-              "indicator_value": 1114.318182,
-              "explanation": "Close 1180.00 > SMA-22 1114.32 -> HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 1106.545455,
+              "explanation": "Close 1175.00 > SMA-22 1106.55 -> HAUSSIER",
               "params": {
                 "window": 22
               },
@@ -733,9 +733,9 @@
               "reliability_weight": 0.515288,
               "normalized_weight": 0.1468,
               "contribution": 0.1468,
-              "current_close": 1180.0,
-              "indicator_value": 1096.75,
-              "explanation": "Close 1180.00 > SMA-28 1096.75 -> HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 1095.142857,
+              "explanation": "Close 1175.00 > SMA-28 1095.14 -> HAUSSIER",
               "params": {
                 "window": 28
               },
@@ -749,9 +749,9 @@
               "reliability_weight": 0.510304,
               "normalized_weight": 0.1454,
               "contribution": 0.1454,
-              "current_close": 1180.0,
-              "indicator_value": 1150.6,
-              "explanation": "Close 1180.00 > SMA-5 1150.60 -> HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 1136.6,
+              "explanation": "Close 1175.00 > SMA-5 1136.60 -> HAUSSIER",
               "params": {
                 "window": 5
               },
@@ -760,7 +760,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:01:52+00:00",
+          "as_of": "2026-04-10T14:20:05+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -773,7 +773,7 @@
           "viable_count": 30,
           "competitive_count": 18,
           "representative_count": 3,
-          "score_explanation": "3 representative(s): MACD(6,17,9)=24.08 -> MOMENTUM HAUSSIER; MACD(10,20,9)=15.73 -> MOMENTUM HAUSSIER; MACD(5,20,5)=31.09 -> MOMENTUM HAUSSIER",
+          "score_explanation": "3 representative(s): MACD(6,17,9)=20.24 -> MOMENTUM HAUSSIER; MACD(10,20,9)=13.13 -> MOMENTUM HAUSSIER; MACD(5,20,5)=26.06 -> MOMENTUM HAUSSIER",
           "representatives": [
             {
               "variant_id": "sv_97fa42743139c619",
@@ -782,9 +782,9 @@
               "reliability_weight": 0.699767,
               "normalized_weight": 0.3491,
               "contribution": 0.3491,
-              "current_close": 1180.0,
-              "indicator_value": 24.075563,
-              "explanation": "MACD(6,17,9)=24.08 -> MOMENTUM HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 20.244507,
+              "explanation": "MACD(6,17,9)=20.24 -> MOMENTUM HAUSSIER",
               "params": {
                 "fast": 6,
                 "slow": 17,
@@ -800,9 +800,9 @@
               "reliability_weight": 0.652547,
               "normalized_weight": 0.3256,
               "contribution": 0.3256,
-              "current_close": 1180.0,
-              "indicator_value": 15.732655,
-              "explanation": "MACD(10,20,9)=15.73 -> MOMENTUM HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 13.132701,
+              "explanation": "MACD(10,20,9)=13.13 -> MOMENTUM HAUSSIER",
               "params": {
                 "fast": 10,
                 "slow": 20,
@@ -818,9 +818,9 @@
               "reliability_weight": 0.652081,
               "normalized_weight": 0.3253,
               "contribution": 0.3253,
-              "current_close": 1180.0,
-              "indicator_value": 31.092119,
-              "explanation": "MACD(5,20,5)=31.09 -> MOMENTUM HAUSSIER",
+              "current_close": 1175.0,
+              "indicator_value": 26.063843,
+              "explanation": "MACD(5,20,5)=26.06 -> MOMENTUM HAUSSIER",
               "params": {
                 "fast": 5,
                 "slow": 20,
@@ -831,7 +831,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:01:53+00:00",
+          "as_of": "2026-04-10T14:20:05+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -844,7 +844,7 @@
           "viable_count": 12,
           "competitive_count": 7,
           "representative_count": 4,
-          "score_explanation": "4 representative(s): RSI(5)=75.56 ~ neutral -> NORMAL; RSI(10)=65.35 ~ neutral -> NORMAL; RSI(5)=75.56 ~ neutral -> NORMAL; RSI(5)=75.56 ~ neutral -> NORMAL",
+          "score_explanation": "4 representative(s): RSI(5)=73.99 ~ neutral -> NORMAL; RSI(10)=64.39 ~ neutral -> NORMAL; RSI(5)=73.99 ~ neutral -> NORMAL; RSI(5)=73.99 ~ neutral -> NORMAL",
           "representatives": [
             {
               "variant_id": "sv_39e59cfba8d0fdbc",
@@ -853,9 +853,9 @@
               "reliability_weight": 0.617061,
               "normalized_weight": 0.2818,
               "contribution": 0.0,
-              "current_close": 1180.0,
-              "indicator_value": 75.563865,
-              "explanation": "RSI(5)=75.56 ~ neutral -> NORMAL",
+              "current_close": 1175.0,
+              "indicator_value": 73.99497,
+              "explanation": "RSI(5)=73.99 ~ neutral -> NORMAL",
               "params": {
                 "period": 5,
                 "oversold": 25,
@@ -871,9 +871,9 @@
               "reliability_weight": 0.567101,
               "normalized_weight": 0.259,
               "contribution": 0.0,
-              "current_close": 1180.0,
-              "indicator_value": 65.346834,
-              "explanation": "RSI(10)=65.35 ~ neutral -> NORMAL",
+              "current_close": 1175.0,
+              "indicator_value": 64.385926,
+              "explanation": "RSI(10)=64.39 ~ neutral -> NORMAL",
               "params": {
                 "period": 10,
                 "oversold": 30,
@@ -889,9 +889,9 @@
               "reliability_weight": 0.50298,
               "normalized_weight": 0.2297,
               "contribution": 0.0,
-              "current_close": 1180.0,
-              "indicator_value": 75.563865,
-              "explanation": "RSI(5)=75.56 ~ neutral -> NORMAL",
+              "current_close": 1175.0,
+              "indicator_value": 73.99497,
+              "explanation": "RSI(5)=73.99 ~ neutral -> NORMAL",
               "params": {
                 "period": 5,
                 "oversold": 30,
@@ -907,9 +907,9 @@
               "reliability_weight": 0.502736,
               "normalized_weight": 0.2296,
               "contribution": 0.0,
-              "current_close": 1180.0,
-              "indicator_value": 75.563865,
-              "explanation": "RSI(5)=75.56 ~ neutral -> NORMAL",
+              "current_close": 1175.0,
+              "indicator_value": 73.99497,
+              "explanation": "RSI(5)=73.99 ~ neutral -> NORMAL",
               "params": {
                 "period": 5,
                 "oversold": 20,
@@ -920,7 +920,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:01:53+00:00",
+          "as_of": "2026-04-10T14:20:06+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -942,8 +942,8 @@
               "reliability_weight": 0.541058,
               "normalized_weight": 0.3592,
               "contribution": 0.3592,
-              "current_close": 1180.0,
-              "indicator_value": 2070953.0,
+              "current_close": 1175.0,
+              "indicator_value": 2066354.0,
               "explanation": "OBV vs EMA(31) -> ACCUMULATION",
               "params": {
                 "ema_period": 31
@@ -958,8 +958,8 @@
               "reliability_weight": 0.489726,
               "normalized_weight": 0.3251,
               "contribution": 0.3251,
-              "current_close": 1180.0,
-              "indicator_value": 2070953.0,
+              "current_close": 1175.0,
+              "indicator_value": 2066354.0,
               "explanation": "OBV vs EMA(5) -> ACCUMULATION",
               "params": {
                 "ema_period": 5
@@ -974,8 +974,8 @@
               "reliability_weight": 0.475587,
               "normalized_weight": 0.3157,
               "contribution": 0.3157,
-              "current_close": 1180.0,
-              "indicator_value": 2070953.0,
+              "current_close": 1175.0,
+              "indicator_value": 2066354.0,
               "explanation": "OBV vs EMA(8) -> ACCUMULATION",
               "params": {
                 "ema_period": 8
@@ -985,7 +985,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:01:53+00:00",
+          "as_of": "2026-04-10T14:20:06+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1091,7 +1091,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:02:20+00:00",
+          "as_of": "2026-04-10T14:20:30+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1162,7 +1162,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:02:20+00:00",
+          "as_of": "2026-04-10T14:20:30+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1233,7 +1233,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:02:21+00:00",
+          "as_of": "2026-04-10T14:20:31+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1298,7 +1298,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:02:21+00:00",
+          "as_of": "2026-04-10T14:20:31+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1356,7 +1356,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:02:57+00:00",
+          "as_of": "2026-04-10T14:21:07+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1409,7 +1409,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:02:57+00:00",
+          "as_of": "2026-04-10T14:21:07+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1462,7 +1462,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:02:58+00:00",
+          "as_of": "2026-04-10T14:21:07+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1511,7 +1511,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:02:58+00:00",
+          "as_of": "2026-04-10T14:21:08+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1536,7 +1536,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:20+00:00",
+          "as_of": "2026-04-10T14:21:31+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 85 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (21/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -1552,7 +1552,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:20+00:00",
+          "as_of": "2026-04-10T14:21:31+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 85 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (21/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -1623,7 +1623,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:20+00:00",
+          "as_of": "2026-04-10T14:21:31+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 85 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (21/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -1639,7 +1639,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:20+00:00",
+          "as_of": "2026-04-10T14:21:31+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 85 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (21/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -1681,7 +1681,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:21+00:00",
+          "as_of": "2026-04-10T14:21:31+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1752,7 +1752,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:21+00:00",
+          "as_of": "2026-04-10T14:21:31+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1823,7 +1823,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:21+00:00",
+          "as_of": "2026-04-10T14:21:32+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1872,7 +1872,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:21+00:00",
+          "as_of": "2026-04-10T14:21:32+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1914,7 +1914,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:41+00:00",
+          "as_of": "2026-04-10T14:21:52+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -1967,7 +1967,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:41+00:00",
+          "as_of": "2026-04-10T14:21:52+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2074,7 +2074,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:41+00:00",
+          "as_of": "2026-04-10T14:21:53+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2139,7 +2139,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:41+00:00",
+          "as_of": "2026-04-10T14:21:53+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2164,7 +2164,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:52+00:00",
+          "as_of": "2026-04-10T14:22:02+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2180,7 +2180,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:52+00:00",
+          "as_of": "2026-04-10T14:22:02+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2251,7 +2251,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:53+00:00",
+          "as_of": "2026-04-10T14:22:03+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2316,7 +2316,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:03:53+00:00",
+          "as_of": "2026-04-10T14:22:03+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2341,7 +2341,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:05+00:00",
+          "as_of": "2026-04-10T14:22:16+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 79 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (15/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -2357,7 +2357,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:05+00:00",
+          "as_of": "2026-04-10T14:22:16+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 79 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (15/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -2410,7 +2410,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:05+00:00",
+          "as_of": "2026-04-10T14:22:16+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 79 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (15/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -2523,7 +2523,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:05+00:00",
+          "as_of": "2026-04-10T14:22:16+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 79 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (15/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -2629,7 +2629,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:07+00:00",
+          "as_of": "2026-04-10T14:22:17+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2682,7 +2682,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:07+00:00",
+          "as_of": "2026-04-10T14:22:17+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2753,7 +2753,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:07+00:00",
+          "as_of": "2026-04-10T14:22:18+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2769,7 +2769,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:08+00:00",
+          "as_of": "2026-04-10T14:22:18+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2875,7 +2875,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:27+00:00",
+          "as_of": "2026-04-10T14:22:38+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -2946,7 +2946,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:27+00:00",
+          "as_of": "2026-04-10T14:22:38+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3017,7 +3017,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:28+00:00",
+          "as_of": "2026-04-10T14:22:39+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3082,7 +3082,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:04:28+00:00",
+          "as_of": "2026-04-10T14:22:39+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3107,7 +3107,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:00+00:00",
+          "as_of": "2026-04-10T14:23:11+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3142,7 +3142,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:00+00:00",
+          "as_of": "2026-04-10T14:23:11+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3231,7 +3231,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:01+00:00",
+          "as_of": "2026-04-10T14:23:11+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3280,7 +3280,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:01+00:00",
+          "as_of": "2026-04-10T14:23:12+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3386,7 +3386,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:19+00:00",
+          "as_of": "2026-04-10T14:23:30+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3421,7 +3421,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:19+00:00",
+          "as_of": "2026-04-10T14:23:30+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3510,7 +3510,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:20+00:00",
+          "as_of": "2026-04-10T14:23:30+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3591,7 +3591,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:20+00:00",
+          "as_of": "2026-04-10T14:23:31+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3616,7 +3616,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:44+00:00",
+          "as_of": "2026-04-10T14:23:55+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3632,7 +3632,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:45+00:00",
+          "as_of": "2026-04-10T14:23:55+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3703,7 +3703,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:45+00:00",
+          "as_of": "2026-04-10T14:23:56+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3752,7 +3752,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:05:45+00:00",
+          "as_of": "2026-04-10T14:23:56+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3842,7 +3842,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:03+00:00",
+          "as_of": "2026-04-10T14:24:13+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3913,7 +3913,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:04+00:00",
+          "as_of": "2026-04-10T14:24:13+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -3984,7 +3984,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:04+00:00",
+          "as_of": "2026-04-10T14:24:13+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4033,7 +4033,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:05+00:00",
+          "as_of": "2026-04-10T14:24:14+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -4058,7 +4058,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:36+00:00",
+          "as_of": "2026-04-10T14:24:46+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 183 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (119/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -4093,7 +4093,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:36+00:00",
+          "as_of": "2026-04-10T14:24:46+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 183 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (119/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -4146,7 +4146,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:36+00:00",
+          "as_of": "2026-04-10T14:24:46+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 183 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (119/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
@@ -4162,7 +4162,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:36+00:00",
+          "as_of": "2026-04-10T14:24:46+00:00",
           "latest_close": null,
           "is_provisional": true,
           "warning_message": "Historique limite: 183 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (252/63/63) avec fenetres reduites (119/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."

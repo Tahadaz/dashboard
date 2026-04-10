@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T15:07:52",
+  "generated_at": "2026-04-10T15:33:30",
   "horizon": "medium",
   "horizon_label": "Moyen terme",
   "stocks": [
@@ -54,7 +54,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:38+00:00",
+          "as_of": "2026-04-10T14:24:48+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -107,7 +107,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:38+00:00",
+          "as_of": "2026-04-10T14:24:48+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -123,7 +123,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:39+00:00",
+          "as_of": "2026-04-10T14:24:48+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -172,7 +172,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:06:39+00:00",
+          "as_of": "2026-04-10T14:24:48+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -278,7 +278,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:07:05+00:00",
+          "as_of": "2026-04-10T14:25:13+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -331,7 +331,7 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:07:05+00:00",
+          "as_of": "2026-04-10T14:25:13+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -347,7 +347,7 @@
           "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
           "representatives": [],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:07:06+00:00",
+          "as_of": "2026-04-10T14:25:14+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
@@ -428,10 +428,2405 @@
             }
           ],
           "fallback_variants": [],
-          "as_of": "2026-04-10T14:07:07+00:00",
+          "as_of": "2026-04-10T14:25:14+00:00",
           "latest_close": null,
           "is_provisional": false,
           "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "AKT",
+      "display_name": "AKDITAL",
+      "sector": "Santé",
+      "aggregate_score_pct": 0.0,
+      "aggregate_signal_label": "Neutre",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:25:48+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:25:48+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:25:48+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:25:48+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "ATW",
+      "display_name": "ATTIJARIWAFA BANK",
+      "sector": "Banques",
+      "aggregate_score_pct": 0.33,
+      "aggregate_signal_label": "Neutre",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 1.32,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 4,
+          "score_explanation": "4 representative(s): Close 703.10 > SMA-21 692.49 -> HAUSSIER; Close 703.10 < SMA-64 720.61 -> BAISSIER; Close 703.10 > SMA-31 698.78 -> HAUSSIER; Close 703.10 < SMA-45 712.66 -> BAISSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_a9ed27fa7b4256ee",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.337841,
+              "normalized_weight": 0.2634,
+              "contribution": 0.2634,
+              "current_close": 703.1,
+              "indicator_value": 692.490476,
+              "explanation": "Close 703.10 > SMA-21 692.49 -> HAUSSIER",
+              "params": {
+                "window": 21
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_22e8167f68c16b01",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.326544,
+              "normalized_weight": 0.2546,
+              "contribution": -0.2546,
+              "current_close": 703.1,
+              "indicator_value": 720.609375,
+              "explanation": "Close 703.10 < SMA-64 720.61 -> BAISSIER",
+              "params": {
+                "window": 64
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_0d86fe76ddd42ddb",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.311958,
+              "normalized_weight": 0.2432,
+              "contribution": 0.2432,
+              "current_close": 703.1,
+              "indicator_value": 698.777419,
+              "explanation": "Close 703.10 > SMA-31 698.78 -> HAUSSIER",
+              "params": {
+                "window": 31
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_3cafa58541156be4",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.306342,
+              "normalized_weight": 0.2388,
+              "contribution": -0.2388,
+              "current_close": 703.1,
+              "indicator_value": 712.664444,
+              "explanation": "Close 703.10 < SMA-45 712.66 -> BAISSIER",
+              "params": {
+                "window": 45
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:25:49+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): MACD(14,45,7)=-14.33 -> MOMENTUM HAUSSIER; MACD(18,45,9)=-12.82 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_1062b8719f86db0f",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.405089,
+              "normalized_weight": 0.5193,
+              "contribution": 0.5193,
+              "current_close": 703.1,
+              "indicator_value": -14.326804,
+              "explanation": "MACD(14,45,7)=-14.33 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 14,
+                "slow": 45,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_ead6f5c3cbb629f0",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.375012,
+              "normalized_weight": 0.4807,
+              "contribution": 0.4807,
+              "current_close": 703.1,
+              "indicator_value": -12.81796,
+              "explanation": "MACD(18,45,9)=-12.82 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 18,
+                "slow": 45,
+                "signal": 9
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:25:49+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:25:50+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -100.0,
+          "family_signal_label": "Forte distribution",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 3,
+          "score_explanation": "3 representative(s): OBV vs EMA(21) -> DISTRIBUTION; OBV vs EMA(70) -> DISTRIBUTION; OBV vs EMA(31) -> DISTRIBUTION",
+          "representatives": [
+            {
+              "variant_id": "sv_9f1ee88840f22455",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.417836,
+              "normalized_weight": 0.3391,
+              "contribution": -0.3391,
+              "current_close": 703.1,
+              "indicator_value": 20586666.0,
+              "explanation": "OBV vs EMA(21) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 21
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_a8b41b8092a5bf18",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.409327,
+              "normalized_weight": 0.3322,
+              "contribution": -0.3322,
+              "current_close": 703.1,
+              "indicator_value": 20586666.0,
+              "explanation": "OBV vs EMA(70) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 70
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_354d464ff8fcec8c",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.405068,
+              "normalized_weight": 0.3287,
+              "contribution": -0.3287,
+              "current_close": 703.1,
+              "indicator_value": 20586666.0,
+              "explanation": "OBV vs EMA(31) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 31
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:25:50+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "BCP",
+      "display_name": "BCP",
+      "sector": "Banques",
+      "aggregate_score_pct": -9.23,
+      "aggregate_signal_label": "Neutre",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": -100.0,
+          "family_signal_label": "Très baissier",
+          "tested_count": 30,
+          "viable_count": 12,
+          "competitive_count": 3,
+          "representative_count": 1,
+          "score_explanation": "1 representative(s): Close 246.80 < SMA-74 267.05 -> BAISSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_2736ebe217f4963c",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.256469,
+              "normalized_weight": 1.0,
+              "contribution": -1.0,
+              "current_close": 246.8,
+              "indicator_value": 267.052703,
+              "explanation": "Close 246.80 < SMA-74 267.05 -> BAISSIER",
+              "params": {
+                "window": 74
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:27:05+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 21,
+          "competitive_count": 13,
+          "representative_count": 3,
+          "score_explanation": "3 representative(s): MACD(18,45,7)=-9.06 -> MOMENTUM HAUSSIER; MACD(14,22,9)=-2.43 -> MOMENTUM HAUSSIER; MACD(10,22,7)=-3.19 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_d95224bc60bdbb83",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.384023,
+              "normalized_weight": 0.3464,
+              "contribution": 0.3464,
+              "current_close": 246.8,
+              "indicator_value": -9.060278,
+              "explanation": "MACD(18,45,7)=-9.06 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 18,
+                "slow": 45,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_bdcae2290e9c9647",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.363448,
+              "normalized_weight": 0.3279,
+              "contribution": 0.3279,
+              "current_close": 246.8,
+              "indicator_value": -2.429003,
+              "explanation": "MACD(14,22,9)=-2.43 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 14,
+                "slow": 22,
+                "signal": 9
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_a68c1730d4cf378b",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.360995,
+              "normalized_weight": 0.3257,
+              "contribution": 0.3257,
+              "current_close": 246.8,
+              "indicator_value": -3.191317,
+              "explanation": "MACD(10,22,7)=-3.19 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 10,
+                "slow": 22,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:27:05+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:27:06+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -36.92,
+          "family_signal_label": "Distribution",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 17,
+          "representative_count": 3,
+          "score_explanation": "3 representative(s): OBV vs EMA(25) -> DISTRIBUTION; OBV vs EMA(39) -> DISTRIBUTION; OBV vs EMA(54) -> ACCUMULATION",
+          "representatives": [
+            {
+              "variant_id": "sv_d2f5e03f8cada63d",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.358604,
+              "normalized_weight": 0.3571,
+              "contribution": -0.3571,
+              "current_close": 246.8,
+              "indicator_value": 18246100.0,
+              "explanation": "OBV vs EMA(25) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 25
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_d124d95bf8e0d8b5",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.328782,
+              "normalized_weight": 0.3274,
+              "contribution": -0.3274,
+              "current_close": 246.8,
+              "indicator_value": 18246100.0,
+              "explanation": "OBV vs EMA(39) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 39
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_5bf24ab090049c43",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.316708,
+              "normalized_weight": 0.3154,
+              "contribution": 0.3154,
+              "current_close": 246.8,
+              "indicator_value": 18246100.0,
+              "explanation": "OBV vs EMA(54) -> ACCUMULATION",
+              "params": {
+                "ema_period": 54
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:27:06+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "CAP",
+      "display_name": "CASH PLUS S.A",
+      "sector": "Sociétés de financement",
+      "aggregate_score_pct": 25.0,
+      "aggregate_signal_label": "Achat",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:05+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 85 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (21/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:05+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 85 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (21/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:05+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 85 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (21/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Forte accumulation",
+          "tested_count": 30,
+          "viable_count": 1,
+          "competitive_count": 1,
+          "representative_count": 1,
+          "score_explanation": "1 representative(s): OBV vs EMA(60) -> ACCUMULATION",
+          "representatives": [
+            {
+              "variant_id": "sv_cf565f1cc1c3be91",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.617876,
+              "normalized_weight": 1.0,
+              "contribution": 1.0,
+              "current_close": 286.75,
+              "indicator_value": 768521.0,
+              "explanation": "OBV vs EMA(60) -> ACCUMULATION",
+              "params": {
+                "ema_period": 60
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:05+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 85 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (21/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        }
+      }
+    },
+    {
+      "symbol": "CDM",
+      "display_name": "CDM",
+      "sector": "Banques",
+      "aggregate_score_pct": 50.0,
+      "aggregate_signal_label": "Achat",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:06+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 12,
+          "competitive_count": 7,
+          "representative_count": 1,
+          "score_explanation": "1 representative(s): MACD(14,22,9)=-5.23 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_bdcae2290e9c9647",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.295682,
+              "normalized_weight": 1.0,
+              "contribution": 1.0,
+              "current_close": 1030.0,
+              "indicator_value": -5.234632,
+              "explanation": "MACD(14,22,9)=-5.23 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 14,
+                "slow": 22,
+                "signal": 9
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:06+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:06+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Forte accumulation",
+          "tested_count": 30,
+          "viable_count": 4,
+          "competitive_count": 2,
+          "representative_count": 1,
+          "score_explanation": "1 representative(s): OBV vs EMA(72) -> ACCUMULATION",
+          "representatives": [
+            {
+              "variant_id": "sv_6819534875bd115c",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.413176,
+              "normalized_weight": 1.0,
+              "contribution": 1.0,
+              "current_close": 1030.0,
+              "indicator_value": 957689.0,
+              "explanation": "OBV vs EMA(72) -> ACCUMULATION",
+              "params": {
+                "ema_period": 72
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:06+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "CFG",
+      "display_name": "CFG BANK",
+      "sector": "Banques",
+      "aggregate_score_pct": -25.0,
+      "aggregate_signal_label": "Vente",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:13+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 570 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (506/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:13+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 570 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (506/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:13+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 570 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (506/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -100.0,
+          "family_signal_label": "Forte distribution",
+          "tested_count": 30,
+          "viable_count": 5,
+          "competitive_count": 3,
+          "representative_count": 1,
+          "score_explanation": "1 representative(s): OBV vs EMA(70) -> DISTRIBUTION",
+          "representatives": [
+            {
+              "variant_id": "sv_a8b41b8092a5bf18",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.545955,
+              "normalized_weight": 1.0,
+              "contribution": -1.0,
+              "current_close": 208.0,
+              "indicator_value": 7725683.0,
+              "explanation": "OBV vs EMA(70) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 70
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:14+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 570 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (506/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        }
+      }
+    },
+    {
+      "symbol": "CSR",
+      "display_name": "COSUMAR",
+      "sector": "Agroalimentaire",
+      "aggregate_score_pct": 0.0,
+      "aggregate_signal_label": "Neutre",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 3,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:15+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 9,
+          "competitive_count": 2,
+          "representative_count": 1,
+          "score_explanation": "1 representative(s): MACD(16,45,7)=-1.27 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_a51900e50d5253f7",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.302568,
+              "normalized_weight": 1.0,
+              "contribution": 1.0,
+              "current_close": 193.0,
+              "indicator_value": -1.267467,
+              "explanation": "MACD(16,45,7)=-1.27 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 16,
+                "slow": 45,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:15+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:15+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -100.0,
+          "family_signal_label": "Forte distribution",
+          "tested_count": 30,
+          "viable_count": 26,
+          "competitive_count": 14,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): OBV vs EMA(31) -> DISTRIBUTION; OBV vs EMA(58) -> DISTRIBUTION",
+          "representatives": [
+            {
+              "variant_id": "sv_354d464ff8fcec8c",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.337954,
+              "normalized_weight": 0.5135,
+              "contribution": -0.5135,
+              "current_close": 193.0,
+              "indicator_value": 3161692.0,
+              "explanation": "OBV vs EMA(31) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 31
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_1b1c97f11fb57a21",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.320155,
+              "normalized_weight": 0.4865,
+              "contribution": -0.4865,
+              "current_close": 193.0,
+              "indicator_value": 3161692.0,
+              "explanation": "OBV vs EMA(58) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 58
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:16+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "GTM",
+      "display_name": "SGTM",
+      "sector": "BTP",
+      "aggregate_score_pct": 25.0,
+      "aggregate_signal_label": "Achat",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:45+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 79 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (15/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:45+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 79 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (15/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:45+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 79 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (15/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Forte accumulation",
+          "tested_count": 30,
+          "viable_count": 3,
+          "competitive_count": 2,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): OBV vs EMA(56) -> ACCUMULATION; OBV vs EMA(25) -> ACCUMULATION",
+          "representatives": [
+            {
+              "variant_id": "sv_14b264b684301d5a",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.569111,
+              "normalized_weight": 0.6609,
+              "contribution": 0.6609,
+              "current_close": 731.5,
+              "indicator_value": -1776894.0,
+              "explanation": "OBV vs EMA(56) -> ACCUMULATION",
+              "params": {
+                "ema_period": 56
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_d2f5e03f8cada63d",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.292027,
+              "normalized_weight": 0.3391,
+              "contribution": 0.3391,
+              "current_close": 731.5,
+              "indicator_value": -1776894.0,
+              "explanation": "OBV vs EMA(25) -> ACCUMULATION",
+              "params": {
+                "ema_period": 25
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:45+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 79 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (15/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        }
+      }
+    },
+    {
+      "symbol": "IAM",
+      "display_name": "ITISSALAT AL-MAGHRIB",
+      "sector": "Télécommunications",
+      "aggregate_score_pct": 17.3,
+      "aggregate_signal_label": "Achat",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 9.88,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 4,
+          "score_explanation": "4 representative(s): Close 95.40 > SMA-31 94.66 -> HAUSSIER; Close 95.40 > SMA-21 93.92 -> HAUSSIER; Close 95.40 < SMA-47 98.26 -> BAISSIER; Close 95.40 < SMA-76 102.94 -> BAISSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_0d86fe76ddd42ddb",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.51483,
+              "normalized_weight": 0.2926,
+              "contribution": 0.2926,
+              "current_close": 95.4,
+              "indicator_value": 94.659677,
+              "explanation": "Close 95.40 > SMA-31 94.66 -> HAUSSIER",
+              "params": {
+                "window": 31
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_a9ed27fa7b4256ee",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.451804,
+              "normalized_weight": 0.2568,
+              "contribution": 0.2568,
+              "current_close": 95.4,
+              "indicator_value": 93.920952,
+              "explanation": "Close 95.40 > SMA-21 93.92 -> HAUSSIER",
+              "params": {
+                "window": 21
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_9e3196fbee334b8e",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.442124,
+              "normalized_weight": 0.2513,
+              "contribution": -0.2513,
+              "current_close": 95.4,
+              "indicator_value": 98.260638,
+              "explanation": "Close 95.40 < SMA-47 98.26 -> BAISSIER",
+              "params": {
+                "window": 47
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_27913110c582eda1",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.350735,
+              "normalized_weight": 0.1993,
+              "contribution": -0.1993,
+              "current_close": 95.4,
+              "indicator_value": 102.938645,
+              "explanation": "Close 95.40 < SMA-76 102.94 -> BAISSIER",
+              "params": {
+                "window": 76
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:46+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 17,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): MACD(14,45,7)=-3.36 -> MOMENTUM HAUSSIER; MACD(12,26,7)=-0.97 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_1062b8719f86db0f",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.390228,
+              "normalized_weight": 0.523,
+              "contribution": 0.523,
+              "current_close": 95.4,
+              "indicator_value": -3.361085,
+              "explanation": "MACD(14,45,7)=-3.36 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 14,
+                "slow": 45,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_37fe4ac251735336",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.355855,
+              "normalized_weight": 0.477,
+              "contribution": 0.477,
+              "current_close": 95.4,
+              "indicator_value": -0.971418,
+              "explanation": "MACD(12,26,7)=-0.97 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 12,
+                "slow": 26,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:46+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Normal",
+          "tested_count": 30,
+          "viable_count": 6,
+          "competitive_count": 4,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): RSI(14)=49.54 ~ neutral -> NORMAL; RSI(14)=49.54 ~ neutral -> NORMAL",
+          "representatives": [
+            {
+              "variant_id": "sv_e670b083469a93ec",
+              "signal": 0.0,
+              "signal_label": "NORMAL",
+              "reliability_weight": 0.455801,
+              "normalized_weight": 0.532,
+              "contribution": 0.0,
+              "current_close": 95.4,
+              "indicator_value": 49.540582,
+              "explanation": "RSI(14)=49.54 ~ neutral -> NORMAL",
+              "params": {
+                "period": 14,
+                "oversold": 25,
+                "overbought": 75
+              },
+              "archetype": "rsi_level",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_4da345fe340c5c9d",
+              "signal": 0.0,
+              "signal_label": "NORMAL",
+              "reliability_weight": 0.400942,
+              "normalized_weight": 0.468,
+              "contribution": 0.0,
+              "current_close": 95.4,
+              "indicator_value": 49.540582,
+              "explanation": "RSI(14)=49.54 ~ neutral -> NORMAL",
+              "params": {
+                "period": 14,
+                "oversold": 20,
+                "overbought": 80
+              },
+              "archetype": "rsi_level",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:47+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -40.67,
+          "family_signal_label": "Distribution",
+          "tested_count": 30,
+          "viable_count": 23,
+          "competitive_count": 13,
+          "representative_count": 3,
+          "score_explanation": "3 representative(s): OBV vs EMA(23) -> DISTRIBUTION; OBV vs EMA(37) -> DISTRIBUTION; OBV vs EMA(70) -> ACCUMULATION",
+          "representatives": [
+            {
+              "variant_id": "sv_51ea341157958498",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.394707,
+              "normalized_weight": 0.3913,
+              "contribution": -0.3913,
+              "current_close": 95.4,
+              "indicator_value": -1861903.0,
+              "explanation": "OBV vs EMA(23) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 23
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_09788b894041b84c",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.314805,
+              "normalized_weight": 0.3121,
+              "contribution": -0.3121,
+              "current_close": 95.4,
+              "indicator_value": -1861903.0,
+              "explanation": "OBV vs EMA(37) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 37
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_a8b41b8092a5bf18",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.299258,
+              "normalized_weight": 0.2967,
+              "contribution": 0.2967,
+              "current_close": 95.4,
+              "indicator_value": -1861903.0,
+              "explanation": "OBV vs EMA(70) -> ACCUMULATION",
+              "params": {
+                "ema_period": 70
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:28:48+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "JET",
+      "display_name": "JET CONTRACTORS",
+      "sector": "BTP",
+      "aggregate_score_pct": -0.48,
+      "aggregate_signal_label": "Neutre",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": -1.94,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 4,
+          "score_explanation": "4 representative(s): Close 2220.00 < SMA-33 2239.64 -> BAISSIER; Close 2220.00 > SMA-27 2147.67 -> HAUSSIER; Close 2220.00 < SMA-54 2393.39 -> BAISSIER; Close 2220.00 > SMA-21 2133.29 -> HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_52442bac0e05ba03",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.555489,
+              "normalized_weight": 0.2653,
+              "contribution": -0.2653,
+              "current_close": 2220.0,
+              "indicator_value": 2239.636364,
+              "explanation": "Close 2220.00 < SMA-33 2239.64 -> BAISSIER",
+              "params": {
+                "window": 33
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_9982494713d63d25",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.532659,
+              "normalized_weight": 0.2544,
+              "contribution": 0.2544,
+              "current_close": 2220.0,
+              "indicator_value": 2147.666667,
+              "explanation": "Close 2220.00 > SMA-27 2147.67 -> HAUSSIER",
+              "params": {
+                "window": 27
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_6fb9b02cb4c5765d",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.511723,
+              "normalized_weight": 0.2444,
+              "contribution": -0.2444,
+              "current_close": 2220.0,
+              "indicator_value": 2393.388889,
+              "explanation": "Close 2220.00 < SMA-54 2393.39 -> BAISSIER",
+              "params": {
+                "window": 54
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_a9ed27fa7b4256ee",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.493913,
+              "normalized_weight": 0.2359,
+              "contribution": 0.2359,
+              "current_close": 2220.0,
+              "indicator_value": 2133.285714,
+              "explanation": "Close 2220.00 > SMA-21 2133.29 -> HAUSSIER",
+              "params": {
+                "window": 21
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:29:38+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): MACD(14,45,7)=-128.09 -> MOMENTUM HAUSSIER; MACD(10,26,7)=-43.69 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_1062b8719f86db0f",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.566939,
+              "normalized_weight": 0.511,
+              "contribution": 0.511,
+              "current_close": 2220.0,
+              "indicator_value": -128.088427,
+              "explanation": "MACD(14,45,7)=-128.09 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 14,
+                "slow": 45,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_793e5b2b35ac3bff",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.542638,
+              "normalized_weight": 0.489,
+              "contribution": 0.489,
+              "current_close": 2220.0,
+              "indicator_value": -43.685313,
+              "explanation": "MACD(10,26,7)=-43.69 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 10,
+                "slow": 26,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:29:38+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:29:38+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -100.0,
+          "family_signal_label": "Forte distribution",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 3,
+          "score_explanation": "3 representative(s): OBV vs EMA(43) -> DISTRIBUTION; OBV vs EMA(29) -> DISTRIBUTION; OBV vs EMA(76) -> DISTRIBUTION",
+          "representatives": [
+            {
+              "variant_id": "sv_28459c237d10855f",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.675952,
+              "normalized_weight": 0.3423,
+              "contribution": -0.3423,
+              "current_close": 2220.0,
+              "indicator_value": 1618047.0,
+              "explanation": "OBV vs EMA(43) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 43
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_1d738c050d3fbd05",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.674194,
+              "normalized_weight": 0.3414,
+              "contribution": -0.3414,
+              "current_close": 2220.0,
+              "indicator_value": 1618047.0,
+              "explanation": "OBV vs EMA(29) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 29
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_6bfd12f93f6f8018",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.624393,
+              "normalized_weight": 0.3162,
+              "contribution": -0.3162,
+              "current_close": 2220.0,
+              "indicator_value": 1618047.0,
+              "explanation": "OBV vs EMA(76) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 76
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:29:39+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "LHM",
+      "display_name": "LAFARGEHOLCIM MAROC",
+      "sector": "BTP",
+      "aggregate_score_pct": 58.58,
+      "aggregate_signal_label": "Achat fort",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Très haussier",
+          "tested_count": 30,
+          "viable_count": 3,
+          "competitive_count": 1,
+          "representative_count": 1,
+          "score_explanation": "1 representative(s): Close 1799.00 > SMA-31 1705.65 -> HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_0d86fe76ddd42ddb",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.266903,
+              "normalized_weight": 1.0,
+              "contribution": 1.0,
+              "current_close": 1799.0,
+              "indicator_value": 1705.645161,
+              "explanation": "Close 1799.00 > SMA-31 1705.65 -> HAUSSIER",
+              "params": {
+                "window": 31
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:30:21+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 7,
+          "competitive_count": 4,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): MACD(14,45,7)=4.16 -> MOMENTUM HAUSSIER; MACD(18,45,9)=-0.94 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_1062b8719f86db0f",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.367378,
+              "normalized_weight": 0.5134,
+              "contribution": 0.5134,
+              "current_close": 1799.0,
+              "indicator_value": 4.162402,
+              "explanation": "MACD(14,45,7)=4.16 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 14,
+                "slow": 45,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_ead6f5c3cbb629f0",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.348178,
+              "normalized_weight": 0.4866,
+              "contribution": 0.4866,
+              "current_close": 1799.0,
+              "indicator_value": -0.93992,
+              "explanation": "MACD(18,45,9)=-0.94 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 18,
+                "slow": 45,
+                "signal": 9
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:30:21+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Normal",
+          "tested_count": 30,
+          "viable_count": 3,
+          "competitive_count": 2,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): RSI(14)=57.36 ~ neutral -> NORMAL; RSI(17)=55.93 ~ neutral -> NORMAL",
+          "representatives": [
+            {
+              "variant_id": "sv_e670b083469a93ec",
+              "signal": 0.0,
+              "signal_label": "NORMAL",
+              "reliability_weight": 0.455165,
+              "normalized_weight": 0.5202,
+              "contribution": 0.0,
+              "current_close": 1799.0,
+              "indicator_value": 57.355503,
+              "explanation": "RSI(14)=57.36 ~ neutral -> NORMAL",
+              "params": {
+                "period": 14,
+                "oversold": 25,
+                "overbought": 75
+              },
+              "archetype": "rsi_level",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_3e89caa957300544",
+              "signal": 0.0,
+              "signal_label": "NORMAL",
+              "reliability_weight": 0.419792,
+              "normalized_weight": 0.4798,
+              "contribution": 0.0,
+              "current_close": 1799.0,
+              "indicator_value": 55.927082,
+              "explanation": "RSI(17)=55.93 ~ neutral -> NORMAL",
+              "params": {
+                "period": 17,
+                "oversold": 25,
+                "overbought": 75
+              },
+              "archetype": "rsi_level",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:30:22+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": 34.32,
+          "family_signal_label": "Accumulation",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 3,
+          "score_explanation": "3 representative(s): OBV vs EMA(33) -> ACCUMULATION; OBV vs EMA(23) -> ACCUMULATION; OBV vs EMA(64) -> DISTRIBUTION",
+          "representatives": [
+            {
+              "variant_id": "sv_04dc86d87bb8afa1",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.463117,
+              "normalized_weight": 0.3364,
+              "contribution": 0.3364,
+              "current_close": 1799.0,
+              "indicator_value": 574758.0,
+              "explanation": "OBV vs EMA(33) -> ACCUMULATION",
+              "params": {
+                "ema_period": 33
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_51ea341157958498",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.461505,
+              "normalized_weight": 0.3352,
+              "contribution": 0.3352,
+              "current_close": 1799.0,
+              "indicator_value": 574758.0,
+              "explanation": "OBV vs EMA(23) -> ACCUMULATION",
+              "params": {
+                "ema_period": 23
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_0d18dc7896b43e13",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.45217,
+              "normalized_weight": 0.3284,
+              "contribution": -0.3284,
+              "current_close": 1799.0,
+              "indicator_value": 574758.0,
+              "explanation": "OBV vs EMA(64) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 64
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:30:22+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "MSA",
+      "display_name": "SODEP-Marsa Maroc",
+      "sector": "Transport",
+      "aggregate_score_pct": 34.84,
+      "aggregate_signal_label": "Achat",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 40.63,
+          "family_signal_label": "Haussier",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 4,
+          "score_explanation": "4 representative(s): Close 817.40 < SMA-80 878.88 -> BAISSIER; Close 817.40 > SMA-29 773.12 -> HAUSSIER; Close 817.40 > SMA-39 806.69 -> HAUSSIER; Close 817.40 > SMA-21 774.07 -> HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_8794952a03299ad9",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.544861,
+              "normalized_weight": 0.2968,
+              "contribution": -0.2968,
+              "current_close": 817.4,
+              "indicator_value": 878.88125,
+              "explanation": "Close 817.40 < SMA-80 878.88 -> BAISSIER",
+              "params": {
+                "window": 80
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_134b4c9d435302c0",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.462705,
+              "normalized_weight": 0.2521,
+              "contribution": 0.2521,
+              "current_close": 817.4,
+              "indicator_value": 773.12069,
+              "explanation": "Close 817.40 > SMA-29 773.12 -> HAUSSIER",
+              "params": {
+                "window": 29
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_7e8766418b823462",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.424378,
+              "normalized_weight": 0.2312,
+              "contribution": 0.2312,
+              "current_close": 817.4,
+              "indicator_value": 806.689744,
+              "explanation": "Close 817.40 > SMA-39 806.69 -> HAUSSIER",
+              "params": {
+                "window": 39
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_a9ed27fa7b4256ee",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.403665,
+              "normalized_weight": 0.2199,
+              "contribution": 0.2199,
+              "current_close": 817.4,
+              "indicator_value": 774.071429,
+              "explanation": "Close 817.40 > SMA-21 774.07 -> HAUSSIER",
+              "params": {
+                "window": 21
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:30:52+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): MACD(12,45,9)=-30.10 -> MOMENTUM HAUSSIER; MACD(10,26,7)=-4.48 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_f580939a72254066",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.480487,
+              "normalized_weight": 0.5065,
+              "contribution": 0.5065,
+              "current_close": 817.4,
+              "indicator_value": -30.096278,
+              "explanation": "MACD(12,45,9)=-30.10 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 12,
+                "slow": 45,
+                "signal": 9
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_793e5b2b35ac3bff",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.468098,
+              "normalized_weight": 0.4935,
+              "contribution": 0.4935,
+              "current_close": 817.4,
+              "indicator_value": -4.47573,
+              "explanation": "MACD(10,26,7)=-4.48 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 10,
+                "slow": 26,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:30:52+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:30:53+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -1.29,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): OBV vs EMA(21) -> DISTRIBUTION; OBV vs EMA(43) -> ACCUMULATION",
+          "representatives": [
+            {
+              "variant_id": "sv_9f1ee88840f22455",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.731807,
+              "normalized_weight": 0.5064,
+              "contribution": -0.5064,
+              "current_close": 817.4,
+              "indicator_value": 19423421.0,
+              "explanation": "OBV vs EMA(21) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 21
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_28459c237d10855f",
+              "signal": 1.0,
+              "signal_label": "ACCUMULATION",
+              "reliability_weight": 0.713224,
+              "normalized_weight": 0.4936,
+              "contribution": 0.4936,
+              "current_close": 817.4,
+              "indicator_value": 19423421.0,
+              "explanation": "OBV vs EMA(43) -> ACCUMULATION",
+              "params": {
+                "ema_period": 43
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:30:53+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "SNA",
+      "display_name": "Stokvis Nord Afrique (Ste) SA",
+      "sector": "Distribution",
+      "aggregate_score_pct": -25.0,
+      "aggregate_signal_label": "Vente",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": -100.0,
+          "family_signal_label": "Très baissier",
+          "tested_count": 30,
+          "viable_count": 29,
+          "competitive_count": 5,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): Close 72.30 < SMA-80 87.73 -> BAISSIER; Close 72.30 < SMA-60 82.12 -> BAISSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_8794952a03299ad9",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.289124,
+              "normalized_weight": 0.5199,
+              "contribution": -0.5199,
+              "current_close": 72.3,
+              "indicator_value": 87.728,
+              "explanation": "Close 72.30 < SMA-80 87.73 -> BAISSIER",
+              "params": {
+                "window": 80
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_354971f42a2a7e76",
+              "signal": -1.0,
+              "signal_label": "BAISSIER",
+              "reliability_weight": 0.266963,
+              "normalized_weight": 0.4801,
+              "contribution": -0.4801,
+              "current_close": 72.3,
+              "indicator_value": 82.119,
+              "explanation": "Close 72.30 < SMA-60 82.12 -> BAISSIER",
+              "params": {
+                "window": 60
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:31:31+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Fort momentum haussier",
+          "tested_count": 30,
+          "viable_count": 29,
+          "competitive_count": 16,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): MACD(18,45,9)=-6.36 -> MOMENTUM HAUSSIER; MACD(18,26,9)=-1.66 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_ead6f5c3cbb629f0",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.357574,
+              "normalized_weight": 0.5073,
+              "contribution": 0.5073,
+              "current_close": 72.3,
+              "indicator_value": -6.358882,
+              "explanation": "MACD(18,45,9)=-6.36 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 18,
+                "slow": 45,
+                "signal": 9
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_42b3009e1414be18",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.347335,
+              "normalized_weight": 0.4927,
+              "contribution": 0.4927,
+              "current_close": 72.3,
+              "indicator_value": -1.661365,
+              "explanation": "MACD(18,26,9)=-1.66 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 18,
+                "slow": 26,
+                "signal": 9
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:31:31+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:31:31+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -100.0,
+          "family_signal_label": "Forte distribution",
+          "tested_count": 30,
+          "viable_count": 30,
+          "competitive_count": 18,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): OBV vs EMA(64) -> DISTRIBUTION; OBV vs EMA(43) -> DISTRIBUTION",
+          "representatives": [
+            {
+              "variant_id": "sv_0d18dc7896b43e13",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.621274,
+              "normalized_weight": 0.5492,
+              "contribution": -0.5492,
+              "current_close": 72.3,
+              "indicator_value": 5443175.0,
+              "explanation": "OBV vs EMA(64) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 64
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_28459c237d10855f",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.509871,
+              "normalized_weight": 0.4508,
+              "contribution": -0.4508,
+              "current_close": 72.3,
+              "indicator_value": 5443175.0,
+              "explanation": "OBV vs EMA(43) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 43
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:31:32+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "TGC",
+      "display_name": "TGCC S.A",
+      "sector": "BTP",
+      "aggregate_score_pct": 8.04,
+      "aggregate_signal_label": "Neutre",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 100.0,
+          "family_signal_label": "Très haussier",
+          "tested_count": 30,
+          "viable_count": 22,
+          "competitive_count": 11,
+          "representative_count": 2,
+          "score_explanation": "2 representative(s): Close 762.00 > SMA-27 726.67 -> HAUSSIER; Close 762.00 > SMA-37 754.90 -> HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_9982494713d63d25",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.352525,
+              "normalized_weight": 0.517,
+              "contribution": 0.517,
+              "current_close": 762.0,
+              "indicator_value": 726.67037,
+              "explanation": "Close 762.00 > SMA-27 726.67 -> HAUSSIER",
+              "params": {
+                "window": 27
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_491ae456e30aafe2",
+              "signal": 1.0,
+              "signal_label": "HAUSSIER",
+              "reliability_weight": 0.32929,
+              "normalized_weight": 0.483,
+              "contribution": 0.483,
+              "current_close": 762.0,
+              "indicator_value": 754.897297,
+              "explanation": "Close 762.00 > SMA-37 754.90 -> HAUSSIER",
+              "params": {
+                "window": 37
+              },
+              "archetype": "price_vs_sma",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:31:47+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 32.17,
+          "family_signal_label": "Momentum haussier",
+          "tested_count": 30,
+          "viable_count": 21,
+          "competitive_count": 8,
+          "representative_count": 3,
+          "score_explanation": "3 representative(s): MACD(12,22,7)=0.85 -> MOMENTUM HAUSSIER; MACD(18,45,9)=13.05 -> MOMENTUM BAISSIER; MACD(12,45,7)=14.44 -> MOMENTUM HAUSSIER",
+          "representatives": [
+            {
+              "variant_id": "sv_8ca63ec4cfe0aedf",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.305777,
+              "normalized_weight": 0.345,
+              "contribution": 0.345,
+              "current_close": 762.0,
+              "indicator_value": 0.847709,
+              "explanation": "MACD(12,22,7)=0.85 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 12,
+                "slow": 22,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_ead6f5c3cbb629f0",
+              "signal": -1.0,
+              "signal_label": "MOMENTUM BAISSIER",
+              "reliability_weight": 0.300616,
+              "normalized_weight": 0.3392,
+              "contribution": -0.3392,
+              "current_close": 762.0,
+              "indicator_value": 13.053249,
+              "explanation": "MACD(18,45,9)=13.05 -> MOMENTUM BAISSIER",
+              "params": {
+                "fast": 18,
+                "slow": 45,
+                "signal": 9
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_7d5c9c13d0793660",
+              "signal": 1.0,
+              "signal_label": "MOMENTUM HAUSSIER",
+              "reliability_weight": 0.279984,
+              "normalized_weight": 0.3159,
+              "contribution": 0.3159,
+              "current_close": 762.0,
+              "indicator_value": 14.435214,
+              "explanation": "MACD(12,45,7)=14.44 -> MOMENTUM HAUSSIER",
+              "params": {
+                "fast": 12,
+                "slow": 45,
+                "signal": 7
+              },
+              "archetype": "macd_cross",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:31:47+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Normal",
+          "tested_count": 30,
+          "viable_count": 3,
+          "competitive_count": 2,
+          "representative_count": 1,
+          "score_explanation": "1 representative(s): RSI(16)=53.68 ~ neutral -> NORMAL",
+          "representatives": [
+            {
+              "variant_id": "sv_452ea867c78f64e0",
+              "signal": 0.0,
+              "signal_label": "NORMAL",
+              "reliability_weight": 0.459279,
+              "normalized_weight": 1.0,
+              "contribution": 0.0,
+              "current_close": 762.0,
+              "indicator_value": 53.682406,
+              "explanation": "RSI(16)=53.68 ~ neutral -> NORMAL",
+              "params": {
+                "period": 16,
+                "oversold": 25,
+                "overbought": 75
+              },
+              "archetype": "rsi_level",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:31:49+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": -100.0,
+          "family_signal_label": "Forte distribution",
+          "tested_count": 30,
+          "viable_count": 19,
+          "competitive_count": 10,
+          "representative_count": 3,
+          "score_explanation": "3 representative(s): OBV vs EMA(21) -> DISTRIBUTION; OBV vs EMA(33) -> DISTRIBUTION; OBV vs EMA(50) -> DISTRIBUTION",
+          "representatives": [
+            {
+              "variant_id": "sv_9f1ee88840f22455",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.410027,
+              "normalized_weight": 0.3768,
+              "contribution": -0.3768,
+              "current_close": 762.0,
+              "indicator_value": 4825646.0,
+              "explanation": "OBV vs EMA(21) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 21
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_04dc86d87bb8afa1",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.365318,
+              "normalized_weight": 0.3357,
+              "contribution": -0.3357,
+              "current_close": 762.0,
+              "indicator_value": 4825646.0,
+              "explanation": "OBV vs EMA(33) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 33
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            },
+            {
+              "variant_id": "sv_2853c96b3922e3ab",
+              "signal": -1.0,
+              "signal_label": "DISTRIBUTION",
+              "reliability_weight": 0.312788,
+              "normalized_weight": 0.2875,
+              "contribution": -0.2875,
+              "current_close": 762.0,
+              "indicator_value": 4825646.0,
+              "explanation": "OBV vs EMA(50) -> DISTRIBUTION",
+              "params": {
+                "ema_period": 50
+              },
+              "archetype": "obv_trend",
+              "selection_status": "selected"
+            }
+          ],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:31:49+00:00",
+          "latest_close": null,
+          "is_provisional": false,
+          "warning_message": ""
+        }
+      }
+    },
+    {
+      "symbol": "VCN",
+      "display_name": "Vicenne",
+      "sector": "Santé",
+      "aggregate_score_pct": 0.0,
+      "aggregate_signal_label": "Neutre",
+      "families": {
+        "sma": {
+          "family": "sma",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:33:30+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 183 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (119/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "macd": {
+          "family": "macd",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:33:30+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 183 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (119/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "rsi": {
+          "family": "rsi",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:33:30+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 183 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (119/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
+        },
+        "obv": {
+          "family": "obv",
+          "family_score_pct": 0.0,
+          "family_signal_label": "Neutre",
+          "tested_count": 30,
+          "viable_count": 0,
+          "competitive_count": 0,
+          "representative_count": 0,
+          "score_explanation": "Aucune variante n'a survecu au filtrage competitif.",
+          "representatives": [],
+          "fallback_variants": [],
+          "as_of": "2026-04-10T14:33:30+00:00",
+          "latest_close": null,
+          "is_provisional": true,
+          "warning_message": "Historique limite: 183 bars disponibles. Mode adaptatif utilise au lieu du mode nominal (504/126/126) avec fenetres reduites (119/21/21). Le signal reste exploitable mais doit etre interprete avec prudence."
         }
       }
     }
